@@ -1,0 +1,4 @@
+name = "veloren_plugin_template"
+modules = ["veloren_plugin_template.wasm"]
+dependencies = []
+target = "BOTH"
